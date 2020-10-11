@@ -1,1 +1,1 @@
-A collection of courseworks where I made use of fundamental software engineering design patterns and principles in Java.
+A collection of courseworks where I implemented examples of software engineering design patterns in Java.
